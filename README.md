@@ -5,3 +5,8 @@ This is python course for medialab students.
 1.-
 2.-
 3.-
+
+# Movies
+1.- Rocky
+2.- Rocky 2
+3.- Rocky 3
